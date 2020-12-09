@@ -13,7 +13,7 @@ LinkedIN: https://www.linkedin.com/in/faithdismuke
 _I am a UX/UI designer with a background in Digital Marketing, Marketing Communications and Communications Technology. I am looking for a position where I can use my skills in strategy and creativity to help an organization grow and improve._ 
 
 |DESIGN SKILLS & KNOWLEDGE  | DESIGN TOOLS   | MARKETING SKILLS & KNOWLEDGE|
-|---------------------------|----------------|-----------------------------|
+|:---------------------------|:----------------|:-----------------------------|
 |User Experience Design     | Figma          |Search Engine Optimization|
 |User Research              | Sketch         |Growth Marketing|
 |User Interface Design      | InVision       |Social Media Marketing|
